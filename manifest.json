@@ -1,0 +1,10 @@
+{
+    "title": "Custom Top Container",
+    "description": "A CSS snippet to customize the top container padding and background color.",
+    "code": ":root .Root__top-container { padding-top: max(var(--comfy-topbar-height, 40px),8px) !important; background-color: purple; }",
+    "preview": "preview.png",
+    "branch": "main",
+    "authors": [
+        { "name": "CharlieS1103", "url": "https://github.com/CharlieS1103" }
+    ]
+}
